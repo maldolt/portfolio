@@ -1,7 +1,10 @@
 body {
     background-color: gainsboro;
     font-family: cursive;
-    img {
-        border: 5px solid #555;
-      }
+
 }
+img {
+    border-radius: 1.8em;
+    border: 6px solid black;
+}
+
