@@ -1,0 +1,27 @@
+img {
+    border: 10px solid rgb(36, 109, 119);
+    border-radius: 100px;
+}
+
+body {
+    height: 400px;
+    background-color: rgb(68, 176, 176);
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: rgb(19, 98, 140);
+    font-size: 1.5cm;
+}
+
+h2 {
+    text-align: center;
+    color: lightblue;
+    background-color: black;
+    font-size: 1cm;
+    font-family: cursive;
+}
+
